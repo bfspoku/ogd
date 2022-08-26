@@ -1,4 +1,4 @@
-# ogd
+# BFS POKU ogd changelog
 
 Github Pages project to host the changelogs for popular federal and cantonal votes OGD data on the opendata.swiss portal.
 
