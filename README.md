@@ -8,6 +8,6 @@ Simply push changes or upload files to the root folder of the project and Github
 
 ## Authors:
 
-Eric Simon <eric.simon@bfs.admin.ch>
-Jenny Yin <jenny.yin@bfs.admin.ch>
+Eric Simon <eric.simon@bfs.admin.ch> \
+Jenny Yin <jenny.yin@bfs.admin.ch> \
 Alain Herzig <alain.herzig@bfs.admin.ch>
