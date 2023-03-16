@@ -1,10 +1,14 @@
-# BFS POKU ogd changelog
+# BFS POKU ogd
 
-Github Pages project to host the changelogs for popular federal and cantonal votes OGD data on the opendata.swiss portal.
+Github Pages project to host ogd documentation and changelogs for
+popular federal and cantonal votes OGD data on the opendata.swiss
+portal.
 
 ## Update
 
-Simply push changes or upload files to the root folder of the project and Github should build and deploy the pages automatically. This can take a few minutes.
+Simply push changes or upload files to the root folder of the project
+and Github should build and deploy the pages automatically. This can
+take a few minutes.
 
 ## Authors:
 

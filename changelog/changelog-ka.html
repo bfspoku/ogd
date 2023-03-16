@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Changelog - Cantonal Popular Votes</title>
+    <link rel="stylesheet" href="ogd/style.css">
+
+  </head>
+  <body>
+    <h1>Changelog - Cantonal Popular Votes</h1>
+	<p>This changelog lists all changes made to the files in the dataset <a href="https://opendata.swiss/en/dataset/echtzeitdaten-am-abstimmungstag-zu-kantonalen-abstimmungsvorlagen">"Echtzeitdaten am Abstimmungstag zu kantonalen Abstimmungsvorlagen"</a>.</p>
+
+    <h2>2021-06-13</h2>
+    <dl>
+        <dt>change</dt>
+        <dd><code>sd-t-17-02-yyyymmdd-kantAbstimmung.json</code></dd>
+        <dd>Byte order mark BOM removed from file</dd>
+    </dl>
+    <dl>
+        <dt>change</dt>
+        <dd><code>sd-t-17-02-yyyymmdd-kantAbstimmung.json</code></dd>
+        <dd>File is compressed server-side with gzip format on Sunday</dd>
+    </dl>
+
+    <h2>2021-03-07</h2>
+    <dl>
+        <dt>change</dt>
+        <dd><code>vorlagenArtId</code> in <code>sd-t-17-02-yyyymmdd-kantAbstimmung.json</code></dd>
+        <dd>Variable is no longer provided in file (permanently set to "0")</dd>
+    </dl>
+
+    <h2>2020-11-29</h2>
+    <dl>
+        <dt>bugfix</dt>
+        <dd><code>gebietAusgezaehlt</code> at the communal level</dd>
+        <dd>Communes of Zurich (261) and Winterthur (230): Results flag is now updated correctly</dd>
+    </dl>
+
+    <h2>2020-09-27</h2>
+    <dl>
+        <dt>change</dt>
+        <dd>results at communal level</dd>
+        <dd>BS (12) partial results at the communal level as soon as postal votes have been counted</dd>
+
+        <dt>change</dt>
+        <dd>results at communal level</dd>
+        <dd>Communes of Zurich (261) and Winterthur (230): Results of the Zählkreise are continuously aggregated to partial communal results</dd>
+    </dl>
+
+ </body>
+</html>
